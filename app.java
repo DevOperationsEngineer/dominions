@@ -1,3 +1,3 @@
 myapp
 testing commits
-  
+staging  
