@@ -1,1 +1,2 @@
 web application
+ear application
